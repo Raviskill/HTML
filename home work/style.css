@@ -1,0 +1,564 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+/* -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+                                            /* 1.page */
+.img
+{
+    background-image: url(photo1.jpg);
+    
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    position: relative;
+ 
+
+   
+
+
+}
+
+nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 0;
+}
+ .logo
+{
+    padding: 25px 25px 25px 35px;
+   
+} 
+nav ul{
+    list-style: none;
+    width: 50%;
+    text-align: center;
+    padding: 10px 300px;
+     
+}
+nav  ul li{
+    display: inline-block;
+    margin: 10px 20px;
+    color: #ffffff;
+    font-weight: 900
+    ;
+    font-size: 28px;
+} 
+
+nav ul li a{
+    color: aliceblue;
+    text-decoration: none;
+}
+.Brooklyn
+{
+    color: aliceblue;
+    font-size: large;
+text-align: center;
+ position: absolute;
+ text-align: center;
+ top: 320px;
+ left: 850px;
+ font-size: 25px;
+
+    
+}
+.dream_scalpes
+{
+    color: aliceblue;
+    font-size: 3.5cm;
+    text-align: center;
+    padding-top:280px ;
+    text-transform: uppercase;
+
+}
+.Lorem_ipsum
+{
+    color: aliceblue;
+    font-size: large;
+    text-align: center;
+    top: 180px;
+    font-size: 25px;
+    
+
+}
+.button
+{
+    background-color: rgb(223, 188, 14);
+    height:50px ;
+    width: 200px;
+    font-size: x-large;
+    color: white;
+    text-align: center;
+    font-weight: 600;
+    position: relative;
+    top: 80%;
+    left: 46%;
+    
+
+
+}
+/* -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+.photo2
+{
+    position: relative;
+    padding-top:8% ;
+    padding-left:51% ;
+    
+
+}
+.Basic
+{
+    color:rgba(208, 192, 7, 0.988);
+    font-weight: 700;
+    font-size: large;
+     position: absolute;
+     top: 120%;
+     left: 13%;
+}
+
+.ABOUT
+{
+
+    position: absolute;
+     top: 124%;
+     left: 13%;
+     font-size: 1cm;
+
+
+}
+.There_are
+{
+    font-size: large;
+    font-weight: 700;
+    position: absolute;
+     top: 132%;
+     left: 10.5%;
+     font-size: 20px;
+
+}
+
+.READ_MORE
+{
+    background-color: rgb(223, 188, 14);
+    height:40px ;
+    width: 170px;
+    font-size: large;
+    color: white;
+    position: absolute;
+    top: 145%;
+    left: 14%;
+
+}
+.OUR_PRODUCTION
+{
+font-size: 1.5cm;
+padding-top :7%;
+/* padding-left: 33% ; */
+text-align: center;
+
+}
+
+.OUR_PRODUCTION::before{
+    content: "--------";
+    color: #ffc107;
+}
+
+.OUR_PRODUCTION::after{
+    content: "--------";
+    color: #ffc107;
+}
+.icon
+{
+   font-size: 100px;
+  
+   padding-left: 20px;
+   position: relative;
+   top:220px;
+   left: 15%;
+}
+.icon2
+{
+   font-size: 100px;
+  
+   padding-left: 20px;
+   position: relative;
+   top: 220px;
+   left: 32%;
+}
+.icon3
+{
+   font-size: 100px;
+  
+   padding-left: 20px;
+   position: relative;
+   top: 220px;
+   left: 49%;
+}
+.icon4
+{
+   font-size: 100px;
+  
+   padding-left: 20px;
+   position: relative;
+   top: 220px;
+   left: 62%;
+}
+
+
+.TV_SHOWS
+{
+    padding-top: 14%;
+    padding-left:15% ;
+    font-size: 1cm
+    ;
+}
+.AWARDS
+{
+ position: absolute;
+ top: 214%;
+ left: 39%;
+ font-size: 1cm;
+}
+
+.MOVIES
+{
+    position: absolute;
+ top: 214%;
+ left: 62%;
+ font-size: 1cm;
+
+}
+
+.FESTIVALS
+
+{
+    position: absolute;
+    top: 214%;
+    left: 79%;
+    font-size: 1cm;  
+}
+.TV_SHOWS_per
+{
+    font-weight: 900;
+    font-size: 15px;
+    position: absolute;
+    top: 226%;
+    left: 9%;
+    font-size: 22px;
+}
+.AWARDS_per
+{
+    font-weight: 900;
+    font-size: 15px;
+    position: absolute;
+    top: 226%;
+    left: 35%;
+    font-size: 22px;
+}
+.MOVIES_per
+{
+    font-weight: 900;
+    font-size: 15px;
+    position: absolute;
+    top: 226%;
+    left: 56%; 
+    font-size: 22px; 
+}
+
+.FESTIVALS_pre
+{
+    font-weight: 900;
+    font-size: 15px;
+    position: absolute;
+    top: 226%;
+    left: 75%; 
+    font-size: 22px;    
+}
+/* -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+                                             /* page 3   */
+
+   
+    
+    .photo3
+    {
+        background-image: url(photo3.jpg);
+        height: 100vh;
+          width: 100%;
+         background-repeat: no-repeat;
+         position: relative;
+         background-size: cover;
+         position: relative;
+         top: 200px;
+         margin-top: 300px;
+
+        
+    }
+    .play_but
+    {
+        color:white;
+        font-size: 500%;
+    }
+
+    .play_buten{
+        position: relative;
+        text-align: center;
+        color: white;
+        font-size: 2cm;
+        position: relative;
+        bottom: 200px;
+      }
+      
+      .OUR_CAST
+      {
+        position: relative;
+        text-align: center;
+        color: black;
+        top: 200px;
+        font-size: 1.5cm;
+        
+      }
+      /* -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+                                                       /* page 4 */
+      .OUR_CAST::after
+      {
+        content: "--------";
+        color: #ffc107;
+      }
+
+      .OUR_CAST::before
+      {
+        content: "--------";
+        color: #ffc107;
+      }
+
+      .LOPEZ_JOSHS h2
+      {
+        
+        height: 3cm;
+        line-height: 3cm;
+      }
+
+
+      .LOPEZ_JOSHS p
+      {
+         
+        
+        color: #ffc107;
+        font-weight: 900;
+        
+      }
+
+
+      .LOPEZ_JOSHS pre
+      {
+        
+        height: 2cm;
+        text-transform: uppercase;
+        font-weight: 900;
+        font-size: 15px;
+        
+      }
+
+    .LOPEZ_JOSHS div
+    {
+      display: inline-block;
+    }
+    
+    .LOPEZ_JOSHS
+    {
+        position: relative;
+        top: 300px;
+        left: 22%;
+        text-align: center;
+    }
+    
+    .LOPEZ_JOSHS h3
+    {
+     position: absolute;
+     bottom: 475px;
+     text-align: center;
+     font-size: 22px;
+    }
+    
+    .cenging
+    {
+        position: absolute;
+        bottom: 430px;
+    }
+
+
+    .cenging2
+    {
+        position: absolute;
+        bottom: 330px;
+    }
+
+    .cengin3
+    {
+        position: absolute;
+        bottom: 430px;
+
+    }
+    /* -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+                                                                      /* page 5 */
+.MOVIE_GALLERY
+{
+    display: block;
+    position: relative;
+    top: 400px;
+    text-align: center;
+    font-size: 1.5cm;
+}
+
+.MOVIE_GALLERY::before
+{
+  content: "--------";
+  color: #ffc107;
+}
+
+.MOVIE_GALLERY::after
+{
+  content: "--------";
+  color: #ffc107;
+}
+
+.ALL{
+    text-align: center;
+    position: relative;
+    top: 450px;
+    font-weight: 900;
+
+}
+.img_4
+{
+   position: relative;
+   top: 500px; 
+   text-align: center;
+   
+}
+
+.img_3
+{
+    position: relative;
+    top: 500px;
+    text-align: center;
+}
+
+/* -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+                                                          /* pega 6 */
+
+    .LATEST_VIDEOS
+    {
+        font-size: 1.5cm;
+        text-align: center;
+        position: relative;
+        top: 700px;
+    }
+
+    .LATEST_VIDEOS::after
+        {
+            content: "--------";
+            color: #ffc107;
+          }
+
+          .LATEST_VIDEOS::before
+          {
+              content: "--------";
+              color: #ffc107;
+            }
+.Run_Away div
+{
+    display: inline-block;
+}
+    
+.Run_Away
+{
+    position: relative;
+    top: 800px;
+    text-align: center;
+    height: 2cm;
+}
+
+.Run_Away h2
+{
+    line-height: 2cm;
+}
+
+.Run_Away pre
+{
+ font-size: 14px;
+ font-weight: 900;
+    
+}
+
+/* -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+                                                    /* page 7 */
+
+.prev
+{
+    background-image: url(photo4.jpg);
+
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    position: relative;
+    top: 1500px;
+
+}
+.prev_content
+{
+    height: 40vh;
+    width: 40%;
+    background-color: white;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    border-radius: 15px;
+    font-size: larger;
+    font-weight: 900;
+    left: 450px;
+    padding-top: 50px;
+
+
+}
+
+.stear
+{
+    position: relative;
+    text-align: center;
+    color: gold;
+    top: 60px;
+    left: 90px;
+}
+
+.acrothemes
+{
+    height: 10vh;
+    width: 6%;
+    position: relative;
+    text-align: center;
+    border-radius: 100%;
+    border: 2px solid white;
+    top: 165px;
+}
+
+.MICKL_DEVID
+{
+    position: relative;
+    text-align: center;
+    color: black;
+    top: 35px;
+}
+.Web_Designer{
+    position: relative;
+    text-align: center;
+    color: black;
+    top: 35px;
+
+}
