@@ -344,6 +344,8 @@ text-align: center;
       }
 
 
+
+
       .LOPEZ_JOSHS p
       {
          
@@ -363,6 +365,7 @@ text-align: center;
         font-size: 15px;
         
       }
+      
 
     .LOPEZ_JOSHS div
     {
@@ -509,56 +512,50 @@ text-align: center;
     background-size: cover;
     position: relative;
     top: 1500px;
-
 }
-.prev_content
+
+.amet_consectetur
 {
-    height: 40vh;
-    width: 40%;
+    position: relative;
     background-color: white;
-    display: inline-block;
-    position: relative;
+    display:inline-block;
+    height: 300px;
+    width: 800px;
+    top:900px;
     text-align: center;
-    border-radius: 15px;
-    font-size: larger;
-    font-weight: 900;
-    left: 450px;
-    padding-top: 50px;
-
-
+    left: 32%;
+    font-size: 22px;
+    padding-top: 120px;
+    border-radius: 25px;
+    
 }
 
-.stear
+.stare
 {
-    position: relative;
-    text-align: center;
     color: gold;
-    top: 60px;
-    left: 90px;
-}
 
+}
+.mini_img
+{
+    height: 20%;
+    width: 20%;
+    border-radius: 100px;
+    border: 5px solid black;
+
+}
 .acrothemes
 {
-    height: 10vh;
-    width: 6%;
     position: relative;
-    text-align: center;
-    border-radius: 100%;
-    border: 2px solid white;
-    top: 165px;
+    top: 1000px;
+    
+    
 }
+/* -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+                                            /* page 8 */
 
-.MICKL_DEVID
+
+.LATEST_BLOGE
 {
     position: relative;
-    text-align: center;
-    color: black;
-    top: 35px;
-}
-.Web_Designer{
-    position: relative;
-    text-align: center;
-    color: black;
-    top: 35px;
-
+    top: 1200PX;
 }
