@@ -1,0 +1,234 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+/* page 1 */
+.img {
+    background-image: url(photo1.jpg);
+
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+
+
+
+
+}
+
+nav {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 0;
+}
+
+.logo {
+    padding: 25px 25px 25px 35px;
+
+}
+
+nav ul {
+    list-style: none;
+    width: 50%;
+    text-align: center;
+    padding: 10px 300px;
+    font-family: Oswald, sans-serif;
+
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 10px 20px;
+    color: #ffffff;
+    font-weight: 900;
+    font-size: 15px;
+}
+
+nav ul li a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.Brooklyn {
+
+
+    color: aliceblue;
+    padding-top: 220px;
+    font-size: large;
+    text-align: center;
+    top: 320px;
+    left: 850px;
+    font-size: 25px;
+    font-family: Oswald, sans-serif;
+}
+
+.dream_scalpes {
+    color: aliceblue;
+    font-size: 3.5cm;
+    text-align: center;
+    font-family: Oswald, sans-serif;
+
+}
+
+.Lorem_ipsum {
+    color: aliceblue;
+    font-size: large;
+    text-align: center;
+    font-family: Oswald, sans-serif;
+    font-size: larger;
+
+}
+
+.button {
+    background-color: rgb(223, 188, 14);
+    height: 50px;
+    width: 200px;
+    font-size: x-large;
+    color: white;
+    text-align: center;
+    font-weight: 600;
+
+}
+
+.button:hover {
+    background-color: black;
+
+}
+
+.button_pogisan {
+    text-align: center;
+    padding-top: 20px;
+    border: none;
+}
+
+
+
+/* ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+/* page 2 */
+
+
+.page_2 {
+    position: relative;
+}
+
+.photo2 {
+    display: inline-block;
+    padding-top: 200px;
+    padding-left: 900px;
+    display: inline-block;
+}
+
+
+.About_Shop {
+    color: rgba(208, 192, 7, 0.988);
+    font-weight: 700;
+    font-size: large;
+    font-family: Oswald, sans-serif;
+}
+
+.ABOUT_US {
+    font-size: 1cm;
+    font-family: Oswald, sans-serif;
+
+}
+
+
+.alteration {
+    font-size: large;
+    font-weight: 700;
+    font-family: Oswald, sans-serif;
+
+
+}
+
+.READ_MORE {
+    background-color: rgb(223, 188, 14);
+    height: 40px;
+    width: 170px;
+    font-size: large;
+    color: white;
+}
+
+.READ_MORE:hover {
+    background-color: black;
+
+}
+
+.secondpag_contrnt {
+    position: absolute;
+    right: 800px;
+    top: 250px;
+
+}
+
+/* -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+/* page 3*/
+
+.OUR_PRODUCTION {
+    font-size: 1.5cm;
+    padding-top: 7%;
+    text-align: center;
+    font-family: Oswald, sans-serif;
+
+}
+
+.OUR_PRODUCTION::before {
+    content: "--------";
+    color: #ffc107;
+}
+
+.OUR_PRODUCTION::after {
+    content: "--------";
+    color: #ffc107;
+}
+
+.icon_SS {
+    padding-top: 100px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 80px;
+    padding-left: 200px;
+    font-size: 100px;
+}
+
+.icone_name {
+    padding-left: 180px;
+    padding-top: 70px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 70px;
+    font-family: Oswald, sans-serif;
+}
+.icone_continte
+{
+    padding-left: 100px;
+    padding-top: 20px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 70px;
+    font-family: Oswald, sans-serif;
+    font-size: 18px;
+    font-weight: 900;
+
+}
+
+/* -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+/* page 4 */
+
+
+.photo3
+{
+    background-image: url(photo3.jpg);
+    height: 80vh;
+      width: 100%;
+     background-repeat: no-repeat;
+     position: relative;
+     background-size: cover; 
+     margin-top: 100px;
+}
