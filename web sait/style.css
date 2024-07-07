@@ -232,3 +232,192 @@ nav ul li a {
      background-size: cover; 
      margin-top: 100px;
 }
+.play_buten
+{
+padding-top: 300px;
+color: aliceblue;
+font-size: 100px;
+text-align: center;
+    
+}
+
+/* -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+/* page 5 */
+
+.OUR_CAST
+{
+  position: relative;
+  text-align: center;
+  color: black;
+font-family: Oswald, sans-serif;
+  font-size: 1.5cm;
+  padding-top: 80px;
+  
+}
+.OUR_CAST::after
+      {
+        content: "--------";
+        color: #ffc107;
+      }
+
+      .OUR_CAST::before
+      {
+        content: "--------";
+        color: #ffc107;
+      }
+
+      .oc_main
+      {
+        display: flex;
+        width: 900;
+        padding-top:100px ;
+        padding-left: 200px;
+        
+      }
+           .oc_main pre
+           {
+            font-size: 15px;
+        
+           }
+
+           
+        .oc_main div:hover
+        {
+            background-color: yellow;
+
+
+
+        }   
+        /* -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+        /* page 6 */
+
+.MOVIE_GALLERY
+{
+    display: block;
+    font-family: Oswald, sans-serif;
+  padding-top: 100px;
+    text-align: center;
+    font-size: 1.5cm;
+}
+
+.MOVIE_GALLERY::before
+{
+  content: "--------";
+  color: #ffc107;
+}
+
+.MOVIE_GALLERY::after
+{
+  content: "--------";
+  color: #ffc107;
+}
+
+.ALL_CONCERTS_FESTIVALS{
+    text-align: center;
+    padding-top: 40px;
+}
+.img_4
+{
+   
+   padding-top: 100px; 
+   text-align: center;
+   
+}
+
+.img_3
+{
+    padding-top: 0px;
+    text-align: center;
+}
+
+/* -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+  /* page 7 */
+
+  .LATEST_VIDEOS
+  {
+      font-size: 1.5cm;
+      text-align: center;
+      padding-top: 70px;
+      font-family: Oswald, sans-serif;
+  }
+
+  .LATEST_VIDEOS::after
+      {
+          content: "--------";
+          color: #ffc107;
+        }
+
+        .LATEST_VIDEOS::before
+        {
+            content: "--------";
+            color: #ffc107;
+          }
+.Run_Away div
+{
+  display: inline-block;
+}
+  
+.Run_Away
+{
+ padding-top: 100px;
+  text-align: center;
+  height: 2cm;
+  padding-top: 40px;
+}
+
+.Run_Away h2
+{
+  line-height: 2cm;
+  
+}
+
+.Run_Away pre
+{
+font-size: 14px;
+font-weight: 900;
+  
+}
+
+.page_7 div:hover
+{
+    background-color: yellow;
+
+}
+
+
+/* -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+/* page 8 */
+
+.photo40
+{
+    background-image: url(photo4.jpg);
+    height: 65vh;
+    width: 100%;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-image: none;
+    
+}
+
+.photo4_2
+{
+    background-image: url(photo4.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat; 
+    background-size: cover;
+
+}
+
+.amet_consectetur{
+    background-color: white;
+    display:inline-block;
+    height: 250px;
+    width: 700px;
+    text-align: center;
+    font-size: 22px;
+    padding-top: 120px;
+    border-radius: 25px;
+
+}
