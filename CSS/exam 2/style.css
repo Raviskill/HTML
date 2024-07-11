@@ -1,0 +1,61 @@
+.nevigesan
+{
+    text-align: center;
+    font-size: 20px;
+    padding: 35px;
+}
+.nevigesan a{
+    padding-left: 35px;
+    text-decoration: none;
+
+}
+
+.img
+{
+    padding-left: 1000px;
+    padding-top: 35px;
+    
+}
+
+.peragrafe
+{
+    font-size: 20px;
+    position: relative;
+    bottom: 400px;
+    
+}
+.foot
+{
+    text-align: center;
+    font-size: 20px;
+    padding: 35px;
+
+}
+
+.foot a
+{
+    text-decoration: none;
+    padding-left: 17px;
+    padding-right: 17px;
+
+
+}
+.maincontin
+{
+    background-color: antiquewhite;
+}
+nav
+{
+    background-color: antiquewhite;
+}
+
+.nevigesan :hover
+{
+    color: red;
+}
+.foot a
+{
+    color: black;
+    background-color: white;
+    text-align: center;
+}

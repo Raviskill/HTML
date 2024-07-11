@@ -10,11 +10,7 @@
 }
 
 @keyframes sun{
-    from{
-        transform: matrix(0px);
-    }
-    to{
-        transform: matrix(1200px);
-    }
+    
+    
 
 }
