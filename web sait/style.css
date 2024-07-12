@@ -13,6 +13,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    background-attachment: fixed;
 
 
 
@@ -231,6 +232,7 @@ nav ul li a {
      position: relative;
      background-size: cover; 
      margin-top: 100px;
+     background-attachment: fixed;
 }
 .play_buten
 {
