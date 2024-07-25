@@ -54,8 +54,20 @@
     {
         padding-left: 300px;
     }
-    
+    .OUR_STRATEGY
+{
+    display: block;
+}
+.Collect_Ideas 
+{
+    position: relative;
+    left:0;
+}
   
+.hello
+{
+    display: block;
+}
 }
 @media (max-width:768px){
     .heding_div h1
@@ -80,8 +92,16 @@
 {
     padding-left: 130px;
 }
+.why{
+    
+    display: block;
 
-
+}
+.Think_unique h1
+{
+    font-size: calc(3.5vw);
+    text-align: center;
+}
    
 }
 @media (max-width:576px){

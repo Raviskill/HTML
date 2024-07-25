@@ -149,8 +149,8 @@ ol , ul{
 }
 
 .SEO_Services div{
-    height: 365px;
-    width: 365px;
+    height: 310px;
+    width: 310px;
     border: 2px solid rgba(164,174,198,0.2);
     text-align: center;
     padding: 30px;
@@ -219,5 +219,107 @@ font-weight: 900;
 <!--ANALYZE_NOW end -->
 <!------------------------------>
  */
+ /* <!------------------------------>
+ <!--OUR_STRATEGY start -->
+ <!------------------------------> */
+
+ .number
+ {
+    display:inline; 
+    font-size:calc(2.5vw);
+
+    border: 2px solid black;
+    border-radius: 100px;
+       
+ }
 
 
+ .heding_per
+ {
+    display: inline-block;
+    padding-bottom: 30px;
+
+ }
+ .OUR_STRATEGY
+ {
+    display: flex;
+    padding-top: 100px;
+ }
+
+ .OUR_STRATEGY h1{
+    font-size: 38px;
+ }
+
+
+ .OUR_STRATEGY p{
+    font-size: 17px;
+    font-weight: 400;
+    
+    }
+
+     .OUR_STRATEGY p{
+        font-size: 17px;
+        font-weight: 400;
+        }
+
+        .Collect_Ideas cha2
+        {
+            position: relative;
+            right: 200px;
+        }
+        
+.Collect_Ideas 
+{
+    position: relative;
+    left:50px;
+}
+
+/* <!------------------------------>
+<!--OUR_STRATEGY end -->
+<!------------------------------> */
+
+/* <!------------------------------>
+<!--WHY CHOOSE US start-->
+<!------------------------------> */
+.choice{
+    max-width: 800px;
+    /* max-width: 100%; */
+}
+.why{
+    padding-top: 100px;
+    display: flex;
+    max-width: 100%;
+}
+
+.solutions h4{
+    font-size: 16px;
+    line-height: 22px;
+    color: #aab0bc;
+}
+
+.solutions h3{
+    font-size: 38px;
+    line-height: 48px;
+    color: #343f52
+    ;
+}
+
+.why img{
+    max-width: 100%;
+    height: auto;
+}
+
+/* <!------------------------------>
+<!--WHY CHOOSE US end-->
+<!------------------------------> */
+
+.Think_unique h1
+{
+    font-size: calc(3.5vw);
+    text-align: center;
+}
+
+.Think_unique
+{
+    padding-top: 50px;
+}
